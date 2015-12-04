@@ -21,8 +21,7 @@
   "preserve_paths": "SKMaps.framework",
   "source_files": "SKMaps.framework/Versions/A/Headers/*.h",
   "resources": [
-    "SKMaps.bundle",
-    "SKAdvisorResources.bundle"
+    "SKMaps.bundle"
   ],
   "header_dir": "ScoutMaps-iOS",
   "frameworks": [
